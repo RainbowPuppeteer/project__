@@ -1,0 +1,6 @@
+﻿  ItemGenerator.cpp
+C:\Users\cheng\source\repos\Project__\Project__\ItemGenerator.cpp(113,21): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+  main.cpp
+C:\Users\cheng\source\repos\Project__\Project__\main.cpp(74,42): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Project__.vcxproj -> C:\Users\cheng\source\repos\Project__\x64\Debug\Project__.exe
