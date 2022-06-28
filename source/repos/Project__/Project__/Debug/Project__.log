@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\cheng\source\repos\Project__\Project__\main.cpp(77): warning C4715: 'WindowProcedure': not all control paths return a value
-  Project__.vcxproj -> C:\Users\cheng\source\repos\Project__\Debug\Project__.exe
